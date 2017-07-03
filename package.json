@@ -21,7 +21,9 @@
   "homepage": "https://github.com/RuLeZzz1987/whois-parser-prettiefied#readme",
   "dependencies": {
     "lodash": "^4.17.4",
+    "moment": "^2.18.1",
     "node-whois": "^2.1.3",
-    "parse-whois": "^1.0.0"
+    "parse-whois": "^1.0.0",
+    "whois": "^2.3.9"
   }
 }
